@@ -1,0 +1,9 @@
+{
+	"name": "adfv2-patmand",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b5cb782a-de04-478f-af23-98af7c19d470",
+		"tenantId": "7b7bc32b-e65f-4038-b454-575eebfd84f3"
+	}
+}
